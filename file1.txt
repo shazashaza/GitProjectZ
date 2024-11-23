@@ -1,1 +1,2 @@
 "File 1 content" 
+"Added more content to file1" 
