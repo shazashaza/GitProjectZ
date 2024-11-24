@@ -1,1 +1,2 @@
 "File 2 content" 
+"Changes from Person2 in dev2 branch."
